@@ -22,8 +22,6 @@ cachetools==5.5.0
 certifi==2024.12.14
 cffi==1.17.1
 charset-normalizer==3.4.0
-chroma-hnswlib==0.7.6
-chromadb==0.5.23
 click==8.1.7
 coloredlogs==15.0.1
 comm==0.2.2
@@ -214,3 +212,7 @@ widgetsnbextension==4.0.13
 wrapt==1.17.0
 yarl==1.18.3
 zipp==3.21.0
+langchain-community
+langchain-text-splitters
+sentence-transformers  # For HuggingFaceEmbeddings
+faiss-cpu  # For FAISS vector database
