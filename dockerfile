@@ -10,8 +10,8 @@ COPY . .
 # Install any needed dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Expose the port the app runs on (default Gradio port is 7860)
+# Expose the port the app runs on 7860
 EXPOSE 7860
 
-# Run the application (assuming app.py is the main Gradio app)
+# Run the application 
 CMD ["python", "app.py"]
