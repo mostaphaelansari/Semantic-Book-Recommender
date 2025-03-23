@@ -2,17 +2,15 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 A semantic book recommendation system that combines content analysis with emotional tone filtering. Built with LangChain, ChromaDB, and Gradio.
 ![Project Structure](![image]()
-) <!-- Add actual project diagram if available -->
+) 
 
-<<<<<<< HEAD
+
 # Semantic Book Recommender System
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 A semantic book recommendation system that combines content analysis with emotional tone filtering. Built with LangChain, ChromaDB, and Gradio.
 (![Project Structure](image.png))
- <!-- Add actual project diagram if available -->
 
-=======
->>>>>>> ec97c9e0a18a8c0d14f5ce9f674a30ac4d11d588
+
 ## Features
 - Semantic search using book descriptions
 - Emotion-based filtering (Joy, Surprise, Anger, Fear, Sadness)
@@ -85,11 +83,10 @@ python app.py
 - **text_classification.ipynb**: Category tagging implementation
 - **vector-search.ipynb**: Embedding and similarity search experiments
 
-<<<<<<< HEAD
+
 ## Result
 ![Image](image-1.png)
 
-=======
->>>>>>> ec97c9e0a18a8c0d14f5ce9f674a30ac4d11d588
+
 ## License
 Apache 2.0 License - See LICENSE for details.
