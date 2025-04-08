@@ -1,13 +1,6 @@
 # Semantic Book Recommender System
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 A semantic book recommendation system that combines content analysis with emotional tone filtering. Built with LangChain, ChromaDB, and Gradio.
-![Project Structure](![image]()
-) 
-
-
-# Semantic Book Recommender System
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-A semantic book recommendation system that combines content analysis with emotional tone filtering. Built with LangChain, ChromaDB, and Gradio.
 (![Project Structure](image.png))
 
 
